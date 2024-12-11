@@ -1,0 +1,9 @@
+discord.py
+discord-interactions
+opencv-python-headless
+face-recognition
+numpy
+scikit-learn
+Pillow
+botocore
+boto3
