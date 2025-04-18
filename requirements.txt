@@ -1,9 +1,11 @@
 discord.py
 discord-interactions
 opencv-python-headless
-face-recognition
+face-recognition~=1.3.0
 numpy
-scikit-learn
+scikit-learn~=1.5.2
 Pillow
 botocore
 boto3
+opencv-python~=4.10.0.84
+discord~=2.3.2
