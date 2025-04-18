@@ -246,7 +246,7 @@ def run_bot():
 
         async with bot:
             try:
-                await bot.start('MTMxNjI4NTQ3OTI4NDM3OTY5OQ.GiH7en.wIy8S_WURNSL8w9UtMX1MCKK6q8T4aBFqIVcoU')
+                await bot.start('BOT_START_KEY')
             except Exception as e:
                 print(f"Error during bot startup: {e}")
             finally:
